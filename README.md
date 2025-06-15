@@ -38,9 +38,12 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 </p>
 
 ## Featured Projects
-**GreenLive:** Realizing that the Vietnamese environment, especially where I live, is seriously polluted by plastic bags, my team created the GreenLive project to minimize the harmful effects of plastic bags on the environment. We made a website for the shops to generate discount codes for customers who buy products without plastic bags.
 
-[View here]()
+**GreenLive**
+
+> Realizing that the Vietnamese environment, especially where I live, is seriously polluted by plastic bags, my team created the GreenLive project to minimize the harmful effects of plastic bags on the environment. We made a website for the shops to generate discount codes for customers who buy products without plastic bags.
+
+[View here](https://github.com/anh-dz/greenlive)
 
 *My Role: Team Leader & UI, UX Design*
 
@@ -50,34 +53,38 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 - *Design UX, UI*
 - *Coding the login function*
 
-*Skills/Technology: Python, Flask, SQL Alchemy, HTML, CSS, JavaScript*
+*Tech Stack: Python, Flask, SQL Alchemy, HTML, CSS, JavaScript*
 
-**Studious:** Helping students learning using the Pomodoro method. The app can draw statistical graphs, create IDs, and synchronize data between iPhone and Desktop.
+**Studious**
 
-[View Desktop App]()
+> Helping students learning using the Pomodoro method. The app can draw statistical graphs, create IDs, and synchronize data between iPhone and Desktop.
 
-[View iOS App]()
+[View Desktop App](https://github.com/anh-dz/Studious)
+
+[View iOS App](https://github.com/anh-dz/Studious-mobile)
 
 *My Role: Team Leader & FrontEnd*
 
 - *Project Planning using Trello*
 - *Design which design pattern to use. We choose MVC*
-- *Design and coding of UX, UI*
+- *Design UX and UI using Figma and code the frontend of the app*
 - *Coding iOS app*
 - *Fixing bugs, maintaining*
 
-*Skills/Technology: Python, PyQt6, Flask, JSON, SwiftUI*
+*Tech Stack: Python, PyQt6, Flask, JSON, SwiftUI*
 
-**Sensor Detect Fire:** This is a project to build a sensor that can detect fire, using Silicon Lab BGM220P.
+**Sensor Detect Fire**
 
-[View here]()
+>This project is to build a sensor that can detect fire, using Silicon Lab BGM220P. The project was completed by 3D printing and installed in the building.
+
+[View here](https://github.com/anh-dz/bgm220p_detect_fire)
 
 *My Role: Team Leader*
 
 - *Research to connect electric circuits effectively*
 - *Coding the smoke detection part*
-- 
-*Skills/Technology: C*
+
+*Tech Stack: C*
 
 ## VIDEOS
 <!-- BEGIN YOUTUBE-CARDS -->
