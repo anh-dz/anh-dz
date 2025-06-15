@@ -39,31 +39,44 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 ## Featured Projects
 **GreenLive:** Realizing that the Vietnamese environment, especially where I live, is seriously polluted by plastic bags, my team created the GreenLive project to minimize the harmful effects of plastic bags on the environment. We made a website for the shops to generate discount codes for customers who buy products without plastic bags.
-[![View here]()
+
+[View here]()
+
 *My Role: Team Leader & UI, UX Design*
-*• Project Planning using Trello
-• Communicating with clients to gain requirements and targets.
-• Writing a report on functions, requirements, technical documents, etc
-• Design UX, UI
-• Coding the login function*
+
+- *Project Planning using Trello*
+- *Communicating with clients to gain requirements and targets*
+- *Writing a report on functions, requirements, technical documents, etc*
+- *Design UX, UI*
+- *Coding the login function*
+
 *Skills/Technology: Python, Flask, SQL Alchemy, HTML, CSS, JavaScript*
 
 **Studious:** Helping students learning using the Pomodoro method. The app can draw statistical graphs, create IDs, and synchronize data between iPhone and Desktop.
-[![View Desktop App]()
-[![View iOS App]()
+
+[View Desktop App]()
+
+[View iOS App]()
+
 *My Role: Team Leader & FrontEnd*
-*• Project Planning using Trello
-• Design which design pattern to use. We choose MVC
-• Design and coding of UX, UI
-• Coding iOS app
-• Fixing bugs, maintaining*
+
+- *Project Planning using Trello*
+- *Design which design pattern to use. We choose MVC*
+- *Design and coding of UX, UI*
+- *Coding iOS app*
+- *Fixing bugs, maintaining*
+
 *Skills/Technology: Python, PyQt6, Flask, JSON, SwiftUI*
 
 **Sensor Detect Fire:** This is a project to build a sensor that can detect fire, using Silicon Lab BGM220P.
-[![View here]()
+
+[View here]()
+
 *My Role: Team Leader*
-*• Research to connect electric circuits effectively
-• Coding the smoke detection part*
+
+- *Research to connect electric circuits effectively*
+- *Coding the smoke detection part*
+- 
 *Skills/Technology: C*
 
 ## VIDEOS
