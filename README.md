@@ -2,7 +2,7 @@
 
 **`A pianist can code? It is me!`**
 
-I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tung University**.  Passionate about building creative tech to solve real-world problems. I love combining creativity with technology—from coding apps to art.
+I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tung University**. I can speak English, Chinese and Vietnamese. Passionate about building creative tech to solve real-world problems. I love combining creativity with technology—from coding apps to art.
 
 ## TECH STACK
 
