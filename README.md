@@ -39,7 +39,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 ## Featured Projects
 
-**GreenLive**
+### GreenLive
 
 > Realizing that the Vietnamese environment, especially where I live, is seriously polluted by plastic bags, my team created the GreenLive project to minimize the harmful effects of plastic bags on the environment. We made a website for the shops to generate discount codes for customers who buy products without plastic bags.
 
@@ -55,7 +55,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 *Tech Stack: Python, Flask, SQL Alchemy, HTML, CSS, JavaScript*
 
-**Studious**
+### Studious
 
 > Helping students learning using the Pomodoro method. The app can draw statistical graphs, create IDs, and synchronize data between iPhone and Desktop.
 
@@ -73,7 +73,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 *Tech Stack: Python, PyQt6, Flask, JSON, SwiftUI*
 
-**Sensor Detect Fire**
+### Sensor Detect Fire
 
 >This project is to build a sensor that can detect fire, using Silicon Lab BGM220P. The project was completed by 3D printing and installed in the building.
 
@@ -84,7 +84,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 - *Research to connect electric circuits effectively*
 - *Coding the smoke detection part*
 
-*Tech Stack: C*
+*Tech Stack: C, pointer*
 
 ## VIDEOS
 <!-- BEGIN YOUTUBE-CARDS -->
