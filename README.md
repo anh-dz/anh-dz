@@ -39,39 +39,63 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 ## Featured Projects
 
-### GreenLive
+### 🌱 GreenLive
 
-> Realizing that the Vietnamese environment, especially where I live, is seriously polluted by plastic bags, my team created the GreenLive project to minimize the harmful effects of plastic bags on the environment. We made a website for the shops to generate discount codes for customers who buy products without plastic bags.
+> An eco-friendly web platform designed to reduce single-use plastic waste in local communities. GreenLive enables retail shops to generate incentive discount codes for customers who choose plastic-free shopping, promoting sustainable consumer habits.
 
-[View here](https://github.com/anh-dz/greenlive)
+📂 **Repository:** [View Project on GitHub](https://github.com/anh-dz/greenlive)
 
-*My Role: Team Leader & UI, UX Design*
+---
 
-- *Project Planning using Trello*
-- *Communicating with clients to gain requirements and targets*
-- *Writing a report on functions, requirements, technical documents, etc*
-- *Design UX, UI*
-- *Coding the login function*
+#### 👨‍💻 My Role: Team Lead & UI/UX Designer
+* **Project Management:** Led the development team and coordinated project workflows using Trello.
+* **Client Engagement & Requirements:** Communicated directly with key stakeholders to gather user requirements and define project goals.
+* **Technical Documentation:** Authored functional specifications, system requirements, and technical documentation.
+* **UI/UX Design:** Wireframed and designed user-centric interfaces on Figma.
+* **Development:** Implemented secure user authentication and login functionality.
 
-*Tech Stack: Python, Flask, SQL Alchemy, HTML, CSS, JavaScript*
+---
 
-### Studious
+#### 🛠 Tech Stack
 
-> Helping students learning using the Pomodoro method. The app can draw statistical graphs, create IDs, and synchronize data between iPhone and Desktop.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71100?style=flat-square&logo=sqlalchemy&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[View Desktop App](https://github.com/anh-dz/Studious)
+* **Backend:** Python, Flask, SQLAlchemy (ORM)
+* **Frontend:** HTML5, CSS3, JavaScript
 
-[View iOS App](https://github.com/anh-dz/Studious-mobile)
+### 🎓 Studious
 
-*My Role: Team Leader & FrontEnd*
+> A cross-platform productivity application designed to help students learn effectively using the Pomodoro technique. The app features statistical study analytics, user ID management, and seamless real-time data synchronization between iOS and Desktop.
 
-- *Project Planning using Trello*
-- *Design which design pattern to use. We choose MVC*
-- *Design UX and UI using Figma and code the frontend of the app*
-- *Coding iOS app*
-- *Fixing bugs, maintaining*
+📂 **Repositories:** [Desktop App](https://github.com/anh-dz/Studious) | [iOS App](https://github.com/anh-dz/Studious-mobile)
 
-*Tech Stack: Python, PyQt6, Flask, JSON, SwiftUI*
+---
+
+#### 👨‍💻 My Role: Team Lead & Frontend Developer
+* **Project Management:** Planned and managed team workflows using Trello.
+* **System Architecture:** Defined and implemented the MVC (Model-View-Controller) design pattern for the applications.
+* **UI/UX Design & Frontend Development:** Designed UI/UX mockups on Figma and developed the desktop frontend interface.
+* **iOS Application Development:** Built and optimized the native iOS app client.
+* **Maintenance & Quality Assurance:** Debugged, optimized performance, and maintained the codebase.
+
+---
+
+#### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+* **Backend / API:** Flask (Python) — Handling core logic and RESTful API communication via JSON formats.
+* **Desktop Client:** Python, PyQt6
+* **Mobile Client (iOS):** Swift, SwiftUI
 
 ### Sensor Detect Fire
 
@@ -84,7 +108,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 - *Research to connect electric circuits effectively*
 - *Coding the smoke detection part*
 
-*Tech Stack: C, pointer*
+*Tech Stack: C*
 
 ## VIDEOS
 <!-- BEGIN YOUTUBE-CARDS -->
