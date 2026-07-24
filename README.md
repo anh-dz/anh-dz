@@ -97,18 +97,31 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 * **Desktop Client:** Python, PyQt6
 * **Mobile Client (iOS):** Swift, SwiftUI
 
-### Sensor Detect Fire
+### 🔥 Fire Detection IoT Sensor System
 
->This project is to build a sensor that can detect fire, using Silicon Lab BGM220P. The project was completed by 3D printing and installed in the building.
+> An embedded IoT system designed for early fire and smoke detection, powered by the Silicon Labs BGM220P SoC. The hardware features custom circuit design enclosed in a 3D-printed protective casing, fully deployed and tested within building environments.
 
-[View here](https://github.com/anh-dz/bgm220p_detect_fire)
+📂 **Repository:** [View Project on GitHub](https://github.com/anh-dz/sensor-detect-fire) *(hoặc dán link thực tế của bạn vào đây)*
 
-*My Role: Team Leader*
+---
 
-- *Research to connect electric circuits effectively*
-- *Coding the smoke detection part*
+#### 👨‍💻 My Role: Team Lead & Embedded Developer
+* **Project Management:** Oversaw project execution, hardware component selection, and deployment timelines.
+* **Hardware & Circuit Design:** Researched and designed optimized circuit schematics for efficient power usage and stable signal transmission.
+* **Firmware Development:** Programmed core smoke detection logic and sensor data processing routines in C.
+* **Prototyping & Enclosure:** Co-designed the 3D-printed housing to protect internal electronics during building installation.
 
-*Tech Stack: C*
+---
+
+#### 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-000000?style=flat-square&logo=microchip&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-Silicon_Labs_BGM220P-008A90?style=flat-square)
+
+* **Language:** C (Embedded C)
+* **Hardware Platform:** Silicon Labs BGM220P Wireless SoC
+* **Domain:** Firmware Development, Sensor Integration, Circuit Design, 3D Prototyping
 
 ## VIDEOS
 <!-- BEGIN YOUTUBE-CARDS -->
