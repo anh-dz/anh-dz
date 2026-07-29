@@ -142,7 +142,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 ## GET IN TOUCH
 
-E-mail: <a href="mailto:nmnanh1235@gmail.com">nmnanh1235@gmail.com</a>
+E-mail: <a href="mailto:nmnanh1235@gmail.com">nmnanh1235[at]gmail.com</a>
 
 Linkedin: <a href="https://linkedin.com/in/nhatanhpico">nhatanhpico</a>
 
