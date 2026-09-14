@@ -101,7 +101,7 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 > An embedded IoT system designed for early fire and smoke detection, powered by the Silicon Labs BGM220P SoC. The hardware features custom circuit design enclosed in a 3D-printed protective casing, fully deployed and tested within building environments.
 
-📂 **Repository:** [View Project on GitHub](https://github.com/anh-dz/sensor-detect-fire) *(hoặc dán link thực tế của bạn vào đây)*
+📂 **Repository:** [View Project on GitHub](https://github.com/anh-dz/sensor-detect-fire) 
 
 ---
 
