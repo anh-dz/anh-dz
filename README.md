@@ -135,11 +135,6 @@ I am studying Bachelor of **Computer Science** at **National Yang Ming Chiao Tun
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nhatanhpico?sub_confirmation=1)
 
-## GITHUB STATS
-![Anh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=anh-dz&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
-
-![Anh's Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anh-dz&layout=compact&theme=tokyonight)
-
 ## GET IN TOUCH
 
 E-mail: <a href="mailto:nmnanh1235@gmail.com">nmnanh1235[at]gmail.com</a>
